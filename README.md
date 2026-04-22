@@ -90,8 +90,6 @@ Convert complex hospital data into actionable insights that improve:
 - 📊 Utilization ranking using `NTILE(100)`  
 - 🚨 Revenue integrity check (procedures vs encounter cost)  
 
----
-
 
 ---
 
@@ -127,8 +125,6 @@ This project demonstrates how SQL can transform complex healthcare data into fin
 
 ---  
 
-
----
 
 ## 👤 Author
 **Yakubu Hamza Ugbedeojo**  

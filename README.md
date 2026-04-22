@@ -92,16 +92,6 @@ Convert complex hospital data into actionable insights that improve:
 
 ---
 
-## 🏗️ Data Modeling Approach
-- ❄️ Snowflake schema  
-- Dimensions: `patients`, `payer`  
-- Facts: `encounters`, `procedures`  
-
-**Query Structure:**
-
-staging • joins • metrics • insights 
-
-- Referential integrity validated using orphan checks  
 
 ---
 
@@ -137,11 +127,6 @@ This project demonstrates how SQL can transform complex healthcare data into fin
 
 ---  
 
----
-
-## 🛠️ Tech Stack
-- SQL Server  
-- GitHub  
 
 ---
 
